@@ -1,5 +1,3 @@
-Hi! I'am
-Maithenkumar FullStack Deve
 Helo! My name Maithenkumar, and I am a passionate Full Stack Developer. With one year of professional experience and a strong foundation in web development, I am constantly honing my skills and expanding my knowledge.
 
 I love working on exciting projects, both in my current role and through freelancing opportunities. These experiences have given me the chance to collaborate with diverse teams and clients, enriching my problem-solving abilities and creativity.
